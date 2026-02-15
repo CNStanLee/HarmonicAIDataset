@@ -35,6 +35,7 @@ Fine-grained PV and EV models were integrated into a unified model for simulatin
 
 ## References
 [1] Li, Congcong, et al. "Broad learning system using rectified adaptive moment estimation for harmonic detection and analysis." IEEE Transactions on Industrial Electronics 71.3 (2023): 2873-2882.
+
 [2] Ziyat, Isla, et al. "EV charging profiles and waveforms dataset (EV-CPW) and associated power quality analysis." IEEE Access 11 (2023): 138445-138456.
 
 ## Acknowledgments
