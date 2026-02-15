@@ -1,0 +1,7 @@
+%implements s47_b0_8tjcb_ModuleConstants "C"
+
+%function ModuleConstants(block) Output
+
+#define OBC_v1_period (5.0E-8)
+#define OBC_v1_period_l (1.0E-5)
+%endfunction
