@@ -1,0 +1,233 @@
+================================================================================
+EV-CPW Dataset - THD Analysis Summary
+Generated: 2026-02-19 06:56:37
+================================================================================
+
+
+BMW iX xDrive50:
+  Number of waveforms analyzed: 3
+  Average THD (Voltage): 0.77%
+  Average THD (Current): 3.98%
+  THD Range (Voltage): 0.67% - 0.84%
+  THD Range (Current): 2.38% - 6.99%
+
+  Detailed Results:
+    Waveform_1:
+      Voltage: THD=0.67%, H1=300.2V, H3=0.1V, H5=0.8V, H7=1.4V
+      Current: THD=6.99%, H1=2.0A, H3=0.1A, H5=0.0A, H7=0.1A
+    Waveform_2:
+      Voltage: THD=0.84%, H1=286.6V, H3=0.5V, H5=0.7V, H7=2.0V
+      Current: THD=2.58%, H1=40.7A, H3=0.7A, H5=0.5A, H7=0.3A
+    Waveform_3:
+      Voltage: THD=0.79%, H1=285.1V, H3=0.6V, H5=0.5V, H7=1.7V
+      Current: THD=2.38%, H1=40.8A, H3=0.6A, H5=0.4A, H7=0.3A
+
+
+Ford Mustang:
+  Number of waveforms analyzed: 3
+  Average THD (Voltage): 1.34%
+  Average THD (Current): 6.52%
+  THD Range (Voltage): 1.30% - 1.39%
+  THD Range (Current): 5.20% - 8.95%
+
+  Detailed Results:
+    Waveform_1:
+      Voltage: THD=1.30%, H1=294.9V, H3=0.0V, H5=2.7V, H7=2.5V
+      Current: THD=8.95%, H1=1.9A, H3=0.0A, H5=0.1A, H7=0.1A
+    Waveform_2:
+      Voltage: THD=1.35%, H1=280.4V, H3=0.8V, H5=2.9V, H7=2.0V
+      Current: THD=5.42%, H1=41.9A, H3=1.8A, H5=0.5A, H7=1.2A
+    Waveform_3:
+      Voltage: THD=1.39%, H1=278.6V, H3=1.0V, H5=3.0V, H7=1.8V
+      Current: THD=5.20%, H1=42.4A, H3=1.7A, H5=0.5A, H7=1.2A
+
+
+Hyundai Ioniq 5:
+  Number of waveforms analyzed: 3
+  Average THD (Voltage): 1.50%
+  Average THD (Current): 11.05%
+  THD Range (Voltage): 1.35% - 1.59%
+  THD Range (Current): 10.48% - 11.96%
+
+  Detailed Results:
+    Waveform_1:
+      Voltage: THD=1.35%, H1=284.0V, H3=1.7V, H5=3.2V, H7=0.8V
+      Current: THD=11.96%, H1=36.6A, H3=3.9A, H5=0.8A, H7=1.3A
+    Waveform_2:
+      Voltage: THD=1.57%, H1=280.3V, H3=1.7V, H5=3.9V, H7=0.8V
+      Current: THD=10.48%, H1=41.4A, H3=3.7A, H5=1.5A, H7=1.3A
+    Waveform_3:
+      Voltage: THD=1.59%, H1=278.7V, H3=2.0V, H5=3.7V, H7=0.9V
+      Current: THD=10.71%, H1=41.3A, H3=3.8A, H5=1.3A, H7=1.4A
+
+
+Hyundai Ioniq Electric:
+  Number of waveforms analyzed: 3
+  Average THD (Voltage): 1.53%
+  Average THD (Current): 2.94%
+  THD Range (Voltage): 1.47% - 1.63%
+  THD Range (Current): 2.67% - 3.14%
+
+  Detailed Results:
+    Waveform_1:
+      Voltage: THD=1.50%, H1=283.3V, H3=0.3V, H5=3.8V, H7=1.6V
+      Current: THD=2.67%, H1=40.0A, H3=0.3A, H5=0.8A, H7=0.2A
+    Waveform_2:
+      Voltage: THD=1.47%, H1=282.4V, H3=0.3V, H5=3.7V, H7=1.5V
+      Current: THD=3.01%, H1=41.6A, H3=0.7A, H5=0.8A, H7=0.1A
+    Waveform_3:
+      Voltage: THD=1.63%, H1=279.3V, H3=0.4V, H5=4.2V, H7=1.3V
+      Current: THD=3.14%, H1=42.1A, H3=0.7A, H5=0.8A, H7=0.1A
+
+
+Kia Nero:
+  Number of waveforms analyzed: 3
+  Average THD (Voltage): 1.28%
+  Average THD (Current): 3.24%
+  THD Range (Voltage): 1.25% - 1.33%
+  THD Range (Current): 3.15% - 3.33%
+
+  Detailed Results:
+    Waveform_1:
+      Voltage: THD=1.25%, H1=280.6V, H3=0.3V, H5=2.7V, H7=2.1V
+      Current: THD=3.15%, H1=38.5A, H3=1.0A, H5=0.3A, H7=0.3A
+    Waveform_2:
+      Voltage: THD=1.26%, H1=279.4V, H3=0.4V, H5=2.6V, H7=2.2V
+      Current: THD=3.26%, H1=40.8A, H3=1.2A, H5=0.3A, H7=0.4A
+    Waveform_3:
+      Voltage: THD=1.33%, H1=280.7V, H3=0.3V, H5=2.8V, H7=2.3V
+      Current: THD=3.33%, H1=40.9A, H3=1.2A, H5=0.4A, H7=0.4A
+
+
+Lexus:
+  Number of waveforms analyzed: 3
+  Average THD (Voltage): 1.40%
+  Average THD (Current): 5.11%
+  THD Range (Voltage): 1.35% - 1.43%
+  THD Range (Current): 1.54% - 8.96%
+
+  Detailed Results:
+    Waveform_1:
+      Voltage: THD=1.35%, H1=295.6V, H3=0.1V, H5=2.9V, H7=2.5V
+      Current: THD=8.96%, H1=0.8A, H3=0.0A, H5=0.0A, H7=0.0A
+    Waveform_2:
+      Voltage: THD=1.43%, H1=280.7V, H3=0.3V, H5=3.1V, H7=2.3V
+      Current: THD=1.54%, H1=41.7A, H3=0.4A, H5=0.2A, H7=0.2A
+    Waveform_3:
+      Voltage: THD=1.41%, H1=280.1V, H3=1.1V, H5=3.0V, H7=2.2V
+      Current: THD=4.84%, H1=42.2A, H3=1.7A, H5=0.7A, H7=0.7A
+
+
+Mitsubishi Outlander:
+  Number of waveforms analyzed: 3
+  Average THD (Voltage): 4.35%
+  Average THD (Current): 9.11%
+  THD Range (Voltage): 4.19% - 4.62%
+  THD Range (Current): 2.61% - 17.47%
+
+  Detailed Results:
+    Waveform_1:
+      Voltage: THD=4.25%, H1=341.3V, H3=13.5V, H5=4.3V, H7=2.2V
+      Current: THD=2.61%, H1=9.0A, H3=0.1A, H5=0.1A, H7=0.1A
+    Waveform_2:
+      Voltage: THD=4.19%, H1=342.9V, H3=13.3V, H5=4.2V, H7=2.4V
+      Current: THD=7.26%, H1=4.0A, H3=0.1A, H5=0.1A, H7=0.1A
+    Waveform_3:
+      Voltage: THD=4.62%, H1=340.6V, H3=14.9V, H5=3.8V, H7=2.2V
+      Current: THD=17.47%, H1=0.5A, H3=0.1A, H5=0.0A, H7=0.0A
+
+
+Nissan Leaf:
+  Number of waveforms analyzed: 3
+  Average THD (Voltage): 1.26%
+  Average THD (Current): 2.24%
+  THD Range (Voltage): 1.13% - 1.36%
+  THD Range (Current): 2.15% - 2.32%
+
+  Detailed Results:
+    Waveform_1:
+      Voltage: THD=1.28%, H1=275.4V, H3=0.5V, H5=2.6V, H7=2.0V
+      Current: THD=2.26%, H1=45.9A, H3=0.6A, H5=0.5A, H7=0.3A
+    Waveform_2:
+      Voltage: THD=1.36%, H1=276.3V, H3=0.5V, H5=2.8V, H7=2.2V
+      Current: THD=2.32%, H1=43.0A, H3=0.6A, H5=0.5A, H7=0.3A
+    Waveform_3:
+      Voltage: THD=1.13%, H1=280.1V, H3=0.6V, H5=2.1V, H7=2.1V
+      Current: THD=2.15%, H1=42.8A, H3=0.6A, H5=0.4A, H7=0.3A
+
+
+Tesla Model 3:
+  Number of waveforms analyzed: 3
+  Average THD (Voltage): 1.15%
+  Average THD (Current): 3.29%
+  THD Range (Voltage): 1.11% - 1.18%
+  THD Range (Current): 3.23% - 3.33%
+
+  Detailed Results:
+    Waveform_1:
+      Voltage: THD=1.18%, H1=282.4V, H3=0.3V, H5=2.1V, H7=1.1V
+      Current: THD=3.23%, H1=42.8A, H3=0.4A, H5=0.5A, H7=0.7A
+    Waveform_2:
+      Voltage: THD=1.11%, H1=282.0V, H3=0.4V, H5=2.2V, H7=1.2V
+      Current: THD=3.33%, H1=42.8A, H3=0.5A, H5=0.6A, H7=0.7A
+    Waveform_3:
+      Voltage: THD=1.15%, H1=280.4V, H3=0.4V, H5=2.2V, H7=1.2V
+      Current: THD=3.30%, H1=42.9A, H3=0.5A, H5=0.6A, H7=0.7A
+
+
+Tesla Model Y:
+  Number of waveforms analyzed: 3
+  Average THD (Voltage): 1.46%
+  Average THD (Current): 4.13%
+  THD Range (Voltage): 1.40% - 1.55%
+  THD Range (Current): 4.05% - 4.28%
+
+  Detailed Results:
+    Waveform_1:
+      Voltage: THD=1.55%, H1=278.3V, H3=0.9V, H5=3.0V, H7=2.4V
+      Current: THD=4.28%, H1=42.4A, H3=0.7A, H5=0.8A, H7=1.3A
+    Waveform_2:
+      Voltage: THD=1.40%, H1=277.7V, H3=0.8V, H5=2.7V, H7=2.1V
+      Current: THD=4.05%, H1=42.5A, H3=0.7A, H5=0.7A, H7=1.2A
+    Waveform_3:
+      Voltage: THD=1.42%, H1=277.0V, H3=0.8V, H5=2.7V, H7=2.2V
+      Current: THD=4.07%, H1=42.6A, H3=0.6A, H5=0.8A, H7=1.2A
+
+
+Toyota Prius Prime 2021:
+  Number of waveforms analyzed: 3
+  Average THD (Voltage): 1.49%
+  Average THD (Current): 1.96%
+  THD Range (Voltage): 1.25% - 1.85%
+  THD Range (Current): 1.89% - 2.01%
+
+  Detailed Results:
+    Waveform_1:
+      Voltage: THD=1.37%, H1=281.4V, H3=0.6V, H5=2.6V, H7=2.3V
+      Current: THD=1.89%, H1=22.4A, H3=0.3A, H5=0.2A, H7=0.1A
+    Waveform_2:
+      Voltage: THD=1.25%, H1=283.7V, H3=0.4V, H5=2.6V, H7=2.2V
+      Current: THD=1.98%, H1=22.4A, H3=0.3A, H5=0.2A, H7=0.1A
+    Waveform_3:
+      Voltage: THD=1.85%, H1=286.3V, H3=0.5V, H5=4.4V, H7=2.6V
+      Current: THD=2.01%, H1=22.3A, H3=0.3A, H5=0.2A, H7=0.2A
+
+
+Volvo XC 40:
+  Number of waveforms analyzed: 3
+  Average THD (Voltage): 1.40%
+  Average THD (Current): 4.14%
+  THD Range (Voltage): 1.38% - 1.44%
+  THD Range (Current): 1.39% - 9.47%
+
+  Detailed Results:
+    Waveform_1:
+      Voltage: THD=1.38%, H1=293.0V, H3=0.4V, H5=3.1V, H7=2.2V
+      Current: THD=9.47%, H1=0.7A, H3=0.0A, H5=0.0A, H7=0.0A
+    Waveform_2:
+      Voltage: THD=1.39%, H1=279.3V, H3=0.4V, H5=3.0V, H7=2.1V
+      Current: THD=1.39%, H1=40.7A, H3=0.0A, H5=0.3A, H7=0.4A
+    Waveform_3:
+      Voltage: THD=1.44%, H1=276.1V, H3=0.2V, H5=3.1V, H7=2.2V
+      Current: THD=1.55%, H1=41.0A, H3=0.1A, H5=0.4A, H7=0.4A
+
